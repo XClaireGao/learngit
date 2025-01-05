@@ -1,4 +1,6 @@
-hello, git1
+dev hello, git1
 first change
 change after add
 change after creating dev
+change in dev
+second change in dev
