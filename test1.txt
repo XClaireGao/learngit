@@ -2,3 +2,4 @@ hello, git1
 first change
 change after add
 change in dev
+second change in dev
