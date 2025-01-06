@@ -2,7 +2,7 @@ dev hello, git1
 first change
 change after add
 change after creating dev
-change in dev
+change in dev by master
 second change in dev
 change after creating remote repo
 mlj commit
